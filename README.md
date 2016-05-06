@@ -1,6 +1,6 @@
 # cssButton
 ==================
 
-# [1]: https://github.com/YasumasaSewake/cssButton/tree/master/gif/cssButton.gif
+![Example Image][1]
 
-![Alt Text](https://github.com/YasumasaSewake/cssButton/raw/master/gif/cssButton.gif)
+[1]:https://github.com/YasumasaSewake/cssButton/raw/master/gif/cssButton.gif
