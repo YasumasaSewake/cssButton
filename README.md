@@ -3,4 +3,4 @@
 
 ![Example Image][1]
 
-https://github.com/YasumasaSewake/cssButton/gif/cssButton.gif
+ [1]: https://github.com/YasumasaSewake/cssButton/gif/cssButton.gif
